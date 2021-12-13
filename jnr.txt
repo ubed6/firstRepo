@@ -1,1 +1,2 @@
 This is my first Git notepad text.
+making changes to it.
